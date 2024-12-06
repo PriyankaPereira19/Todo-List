@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Todo-List",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
