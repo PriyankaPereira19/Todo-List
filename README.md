@@ -23,4 +23,4 @@ To run the To-Do List App locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/PriyankaPereira19/Todo-List-App.git
